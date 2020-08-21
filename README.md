@@ -17,7 +17,7 @@
 </p>
 
 <h2 id="sobre">🚀 Sobre o desafio</h2>
-<p>Criação de uma aplicação para armazenar projetos e suas tarefas do zero utilizando Express.</p>
+<p>Criação de uma aplicação para armazenar projetos e suas tecnologias e o mesmo podendo receber likes do zero utilizando Express.</p>
 <h3>Rotas: </h3>
     <ul>
         <li>
